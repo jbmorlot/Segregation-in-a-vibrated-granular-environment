@@ -5,3 +5,5 @@ The experiment consists in placing at the bottom of a bowl, a ball of important 
 smaller diameter. 
 The bowl is subject to horizontal oscillations, supposed sinusoidal. During the simulations, we observe that the big ball
 raised in the bowl.
+
+see: <a href="https://github.com/jbmorlot/Segregation-in-a-vibrated-granular-environment/blob/master/Report_french.pdf"> Report_french.pdf</a>
